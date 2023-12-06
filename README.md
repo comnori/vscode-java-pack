@@ -1,6 +1,6 @@
 ## Extension Pack for Java-AWESOME-SOHO
 
-Extension Pack for Java-AWESOME-SOHO is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
+Extension Pack for Java-AWESOME-SOHO is a collection of popular extensions that can help write, test and debug Java applications with Spring framework in Visual Studio Code.
 
 ## Extensions Included
 
@@ -25,6 +25,30 @@ By installing Extension Pack for Java, the following extensions are installed:
     * AI-assisted development
     * Completion list ranked by AI
 * [📦 Gradle for Java](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscjava.vscode-gradle)
+  * Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
+* [📦 Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
+  * [📦 Spring Initializr Java Support](https://marketplace.visualstudio.com/items?itemName=vmware.vscjava.vscode-spring-initializr)
+    * A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.
+  * [📦 Spring Boot Tools](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot)
+    * Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
+  * [📦 Spring Boot Dashboard](https://marketplace.visualstudio.com/items?itemName=vmware.vscjava.vscode-spring-boot-dashboard)
+    * Spring Boot Dashboard for VS Code
+* [📦 Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle)
+  * Provide real-time feedback about Checkstyle violations and quick fix actions
+* [📦 XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+  * XML Language Support by Red Hat
+* [📦 YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+  * YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+* [📦 Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)
+  * Refactor code with Lombok annotations, or remove Lombok annotations with actual methods.
+* [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  * Spelling checker for source code
+* [📦 SQL Notebook](https://marketplace.visualstudio.com/items?itemName=cmoog.sqlnotebook)
+  * View SQL files as notebooks. Execute cells and view query output.
+* [📦 Java Properties](https://marketplace.visualstudio.com/items?itemName=ithildir.java-properties)
+  * Java Properties Syntax Highlighting
+* [📦 Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+  * Syntax highlighting for log files
 * [📦 EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   * Helps maintain consistent coding styles
 * [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)

@@ -1,7 +1,7 @@
 {
-  "name": "java-awesome-soho-extension-pack",
+  "name": "java-spring-awesome-soho-extension-pack",
   "publisher": "comnori",
-  "displayName": "Java AWESOME-SOHO Extension Pack",
+  "displayName": "Java + Spring AWESOME-SOHO Extension Pack",
   "description": "Popular extensions for Java development",
   "version": "1.0.0",
   "engines": {
@@ -9,8 +9,8 @@
   },
   "icon": "logo.jpg",
   "keywords": [
-    "javascript",
-    "typescript"
+    "java",
+    "spring"
   ],
   "maintainers": [
     {
@@ -36,7 +36,6 @@
     "vscjava.vscode-java-pack",
     "vscjava.vscode-gradle",
     "vmware.vscode-boot-dev-pack",
-    "redhat.vscode-community-server-connector",
     "shengchen.vscode-checkstyle",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
