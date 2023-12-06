@@ -1,6 +1,9 @@
-## Extension Pack for Java-AWESOME-SOHO
+## Extension Pack for Java + Spring AWESOME-SOHO
 
-Extension Pack for Java-AWESOME-SOHO is a collection of popular extensions that can help write, test and debug Java applications with Spring framework in Visual Studio Code.
+Extension Pack for Java + Spring AWESOME-SOHO is a collection of popular extensions that can help write, test and debug Java applications with Spring framework in Visual Studio Code.
+
+[![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/comnori.java-spring-awesome-soho-extension-pack?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=comnori.java-spring-awesome-soho-extension-pack) [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/comnori.java-spring-awesome-soho-extension-pack?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=comnori.java-spring-awesome-soho-extension-pack) ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/comnori.java-spring-awesome-soho-extension-pack?style=for-the-badge)
+ ![GitHub License](https://img.shields.io/github/license/comnori/vscode-java-pack?style=for-the-badge)
 
 ## Extensions Included
 
