@@ -1,0 +1,75 @@
+{
+  "name": "java-awesome-soho-extension-pack",
+  "publisher": "comnori",
+  "displayName": "Java AWESOME-SOHO Extension Pack",
+  "description": "Popular extensions for Java development",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "icon": "logo.jpg",
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "maintainers": [
+    {
+      "name": "Yongsik Yun",
+      "email": "comnori@gmail.com",
+      "web": "https://www.linkedin.com/in/yongsik-yun-36260344"
+    }
+  ],
+  "homepage": "https://github.com/comnori/vscode-java-pack",
+  "bugs": {
+    "url": "https://github.com/comnori/vscode-java-pack/issues",
+    "email": "comnori@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comnori/vscode-java-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-gradle",
+    "vmware.vscode-boot-dev-pack",
+    "redhat.vscode-community-server-connector",
+    "shengchen.vscode-checkstyle",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "vscjava.vscode-lombok",
+    "streetsidesoftware.code-spell-checker",
+    "cmoog.sqlnotebook",
+    "ithildir.java-properties",
+    "IBM.output-colorizer",
+    "aaron-bond.better-comments",
+    "eamodio.gitlens",
+    "mutantdino.resourcemonitor",
+    "EditorConfig.EditorConfig",
+    "Gruntfuggly.todo-tree",
+    "liamhammett.inline-parameters",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "SonarSource.sonarlint-vscode",
+    "usernamehw.errorlens"
+  ],
+  "scripts": {
+    "package": "vsce package --out ./build",
+    "publish": "vsce publish"
+  },
+  "funding": [
+    {
+      "type": "Buy Me a Coffee",
+      "url": "https://www.buymeacoffee.com/comnori"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/comnori"
+    }
+  ]
+}
