@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.4]
+
+### Added
+
+- Add Asciidoc extension
+- Add Folder Templates extension
+
 ## [1.0.2] - 2023-12-11
 
 ### Added

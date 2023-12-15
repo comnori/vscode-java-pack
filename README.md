@@ -93,6 +93,13 @@ By installing Extension Pack for Java, the following extensions are installed:
   * Adds inline parameter annotations when calling a function
 * [📦 Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
   * Improve highlighting of errors, warnings and other language diagnostics.
+* [📦 Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure)
+  * Create Templates for Folders and Files for easy reusability
+
+### Rich language
+
+* [📦 AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode)
+  * Provides rich language support for AsciiDoc.
 
 ### Appearance
 
