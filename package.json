@@ -3,7 +3,7 @@
   "publisher": "comnori",
   "displayName": "Java + Spring AWESOME-SOHO Extension Pack",
   "description": "Popular extensions for Java development",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -57,7 +57,8 @@
     "SonarSource.sonarlint-vscode",
     "usernamehw.errorlens",
     "asciidoctor.asciidoctor-vscode",
-    "Huuums.vscode-fast-folder-structure"
+    "Huuums.vscode-fast-folder-structure",
+    "ms-azuretools.vscode-docker"
   ],
   "scripts": {
     "package": "vsce package --out ./build",

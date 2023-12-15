@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.5]
+
+### Fixed
+
+- Fix missing docker extension
+
 ## [1.0.4]
 
 ### Added
