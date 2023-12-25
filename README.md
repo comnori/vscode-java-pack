@@ -35,14 +35,12 @@ By installing Extension Pack for Java, the following extensions are installed:
   * [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
     * AI-assisted development
     * Completion list ranked by AI
-* [📦 Gradle for Java](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscjava.vscode-gradle)
+* [📦 Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
   * Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
 * [📦 Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle)
   * Provide real-time feedback about Checkstyle violations and quick fix actions
 * [📦 Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)
   * Refactor code with Lombok annotations, or remove Lombok annotations with actual methods.
-* [📦 Java Properties](https://marketplace.visualstudio.com/items?itemName=ithildir.java-properties)
-  * Java Properties Syntax Highlighting
 
 ### Spring
 
@@ -58,7 +56,8 @@ By installing Extension Pack for Java, the following extensions are installed:
 * [📦 YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
   * YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 * [📦 SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
-  * Linter
+  * Linter to detect & fix coding issues locally in JS/TS, Python, PHP, Java, C, C++, C#, Go, IaC. Use with SonarQube & SonarCloud for optimal team performance.
+
 
 ### Docker
 
@@ -95,6 +94,9 @@ By installing Extension Pack for Java, the following extensions are installed:
   * Improve highlighting of errors, warnings and other language diagnostics.
 * [📦 Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure)
   * Create Templates for Folders and Files for easy reusability
+* [📦 SemanticDiff](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff)
+  * Programming language aware diffs for Visual Studio Code.
+
 
 ### Rich language
 
